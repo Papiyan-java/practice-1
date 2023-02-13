@@ -28,6 +28,7 @@ package com.java.method;
              p.personalInfo();
              System.out.print(". "+" He is " + p.age + " years old");
              System.out.print(p.name.replaceAll(""," "));
+       //some comment from remonte
 
          }
 
